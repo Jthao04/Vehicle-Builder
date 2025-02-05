@@ -10,7 +10,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# [Demonstration Video on How to Generate a ReadMe](https://drive.google.com/file/d/1tQgYQ43NujRCt6Wq8Sh0sUlkhA8F-wRI/view?usp=sharing)
+# [Demonstration Video](https://drive.google.com/file/d/1tQgYQ43NujRCt6Wq8Sh0sUlkhA8F-wRI/view?usp=sharing)
 
 ## Description
 
